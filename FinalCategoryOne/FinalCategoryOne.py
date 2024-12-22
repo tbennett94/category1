@@ -9,7 +9,7 @@ import sys
 
 
 users = {
-    "admin": {"name": "admin", "password": "Temporal1", "service": 1},
+    "admin": {"name": "admin", "password": "password", "service": 1},
     "Sarah Davis": {"name": "Sarah Davis", "password": "F2umis7uw.", "service": 2},
     "Amy Friendly": {"name": "Amy Friendly", "password": "Ivenab88!", "service": 1},
     "Johnny Smith" : {"name": "Johny Smith", "password": "Granet317", "service": 1},
